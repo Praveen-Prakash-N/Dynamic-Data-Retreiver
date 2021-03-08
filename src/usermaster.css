@@ -1,0 +1,37 @@
+/* svg {
+    margin-left: 8px;
+    margin-bottom: -7px;
+} */
+
+svg#master_user_edit {
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+svg#master_user_delete {
+    cursor: pointer;
+}
+
+div#search-form-user-master {
+    border: #d6d4d4 solid 1px;
+}
+
+div#search-form-user-master > input {
+    padding: 5px 5px 5px 5px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+button#search-button {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: #fff;
+    background-color: #332a7c;
+    border-color: #332a7c;
+}
+
+button#search-button:hover {
+    background-color: #f7a54a;
+    border-color: #f7a54a;
+    color: #FFFFFF;
+}
